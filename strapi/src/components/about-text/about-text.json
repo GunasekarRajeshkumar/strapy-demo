@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_about_text_about_texts",
+  "info": {
+    "displayName": "about-text",
+    "icon": "briefcase",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "aboutText1": {
+      "type": "text"
+    }
+  }
+}

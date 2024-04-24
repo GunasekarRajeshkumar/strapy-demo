@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_homebanners_homebanners",
+  "info": {
+    "displayName": "homebanners",
+    "icon": "check"
+  },
+  "options": {},
+  "attributes": {
+    "testbanner": {
+      "type": "text"
+    }
+  }
+}
